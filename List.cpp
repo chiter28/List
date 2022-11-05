@@ -179,12 +179,6 @@ int main()
 	}
 
 
-	
-
-
 }
 
-int f()
-{
-	return 1;
-}
+int f = 3;
